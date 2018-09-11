@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a16ee2832f491164ab2725e42333c170
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '!The Gabbits'
+  fontNames:
+  - '!The Gabbits'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 810a46118cb3a9d468830599738e7e6d, type: 3}
+  - {fileID: 12800000, guid: 151bb846dcd3aa34fba0d85b8689e01f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
